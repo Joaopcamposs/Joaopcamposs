@@ -3,9 +3,11 @@
 ##
 
 <div>
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Joaopcamposs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Joaopcamposs&&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopcamposs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
 
 ##
 
