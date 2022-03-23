@@ -1,4 +1,4 @@
-### Hi there, I'm João Pedro, a development student!👋
+### Hi there, I'm João Pedro, a computer engineer student!👋
 
 ##
 
