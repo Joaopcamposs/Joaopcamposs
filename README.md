@@ -5,8 +5,11 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats-one.vercel.app/api?username=Joaopcamposs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaopcamposs&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Joaopcamposs&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
+
+<p align="center">
+</p>
+
 
 ##
 
