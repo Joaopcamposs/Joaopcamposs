@@ -34,6 +34,8 @@ Would you like to contact me?
   <img align="center" alt="GoogleCloud" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaopcamposs/Joaopcamposs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaopcamposs/Joaopcamposs/output/github-contribution-grid-snake.svg">
