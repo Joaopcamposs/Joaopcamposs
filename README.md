@@ -2,11 +2,11 @@
 
 ##
 
-<div>
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Joaopcamposs&&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopcamposs&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg">
+</picture>   
 
 
 ##
@@ -31,7 +31,3 @@ Would you like to contact me?
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="GoogleCloud" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
-
-
-
-![snake gif](https://github.com/Joaopcamposs/Joaopcamposs/blob/output/github-contribution-grid-snake.svg)
